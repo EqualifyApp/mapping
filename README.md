@@ -1,2 +1,3 @@
-# mapping
+# A11yMaps
+
 Where we store json mapping files for various systems and map to a single request schema
